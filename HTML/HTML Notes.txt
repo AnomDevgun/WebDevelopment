@@ -1,0 +1,9 @@
+## HTML Notes ##
+
+HTML stands for hypertext markup language
+Is a language or syntax used to markup a webpage (an early example was academic texts)
+Broken down into HTML elements in the form of tags (opening and closing, enclosing the data)
+
+
+# Head tags 
+- H1 to H6 with H1 being the main head tags and all subsequent subheaders can be labelled as the others, H1 should be the main and only one.
