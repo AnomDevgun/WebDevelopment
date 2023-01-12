@@ -7,3 +7,10 @@ Broken down into HTML elements in the form of tags (opening and closing, enclosi
 
 # Head tags 
 - H1 to H6 with H1 being the main head tags and all subsequent subheaders can be labelled as the others, H1 should be the main and only one.
+
+# Self Closing tags - example: <br>, <hr>(horizontal rule tag)
+
+#Comments created like- <!-- ABCD -->
+
+Use em tag instead of i tag
+Use strong tag instead of b tag
