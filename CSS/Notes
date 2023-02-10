@@ -24,3 +24,5 @@ em or percentage is inherited from the nearest parent.
 rem as opposed to em will not inherit parents properties
 try using rem whenever possible.
 */ -->
+
+In bootstrap the screen is divided into 12 segments, so when you use something like col-md-1 what that means is that on medium size screens and above on each row only 1 element. 2 col-lg-6 would mean on large screens and above we would have 2 elements occupying 50% each
