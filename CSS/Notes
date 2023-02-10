@@ -1,0 +1,28 @@
+<!--
+    1)Doctype tells the browser the version of HTML the file was written in.
+    2)All tags go within the html tag
+    3)Lang tells things like screen readers which languge the website is in.
+    4)Head has things that wont be shown to the user, like metatag for character encoding. Also has the title tag which will be the browser tab name.
+    5)The body tag has all of the content of the website.
+    *inline, block, inline-block, none*
+    6)Block elements take up all the width(ex:p,div,h1,list,form)
+    7)Inline elements takes only as much height and width is needed. (ex:span,img,anchor)
+    8)visibility:hidden just hides the element while maintaining its position in the webpage
+    9)Absolute positioning is relative to its parent. Absolute as opposed to relative positioning affects the flow of the page.
+    10)Fixed positioning will keep the element fixed when scrolling the website, like a navbar or scrollbar.
+
+
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+
+/*
+1% is 16px
+1em is 16px
+em will scale with fontsize of browzer
+em or percentage is inherited from the nearest parent.
+rem as opposed to em will not inherit parents properties
+try using rem whenever possible.
+*/ -->
+
+In bootstrap the screen is divided into 12 segments, so when you use something like col-md-1 what that means is that on medium size screens and above on each row only 1 element. 2 col-lg-6 would mean on large screens and above we would have 2 elements occupying 50% each
